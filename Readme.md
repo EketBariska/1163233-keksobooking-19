@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Катенька](https://up.htmlacademy.ru/javascript/19/user/1163233).
-* Наставник: `Неизвестно`.
+* Наставник: Старчиков Павел.
 
 ---
 
